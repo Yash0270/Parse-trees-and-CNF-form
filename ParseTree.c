@@ -2,7 +2,7 @@
 #include<stdlib.h>
 #include<string.h>
 #include <strings.h>
-
+#include<math.h>
 #define max 1000000
 #define ROW 26
 #define COLUMN 2
