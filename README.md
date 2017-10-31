@@ -1,2 +1,2 @@
-# Solutions to the assignmeent of the Course Logic in Computer Science  
+# Solutions   
 ## BITS Pilani Hyderabad Campus
